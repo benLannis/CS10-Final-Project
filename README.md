@@ -1,4 +1,4 @@
-# CS10-Final-Project
+# CMPINF 0010 Final Project
 
 ### By: The Foodies (open to criticism)
 
@@ -11,8 +11,6 @@
 
 ### Datasets Used:
 * Ben's Dataset: Allegheny County Supermarkets & Convenience Stores (https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores)
-
-Describes the locations of supermarkets and convenience stores by address and coordinates
 *
 *
 
