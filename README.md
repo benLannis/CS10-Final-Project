@@ -7,7 +7,7 @@
 ### Group Members:
 * Benjamin Lannis - bwl21@pitt.edu
 * Mason Hoydick - mth59@pitt.edu
-*
+* 
 
 ### Datasets Used:
 * Ben's Dataset: Allegheny County Supermarkets & Convenience Stores (https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores)
@@ -16,4 +16,7 @@
 
 ## Overview:
 
-Welcome to our repository.
+We investigated which neighborhood in Pittsburgh has the best food in order to determine which one is the best overall. We used 3 different datasets that recorded grocery/supermarket locations, food garden locations, and food health code violations respectively. Through the synthesis of our individual analysis, we determined that ___ had the best food in the city:
+
+(put screenshot of final visualization here)
+
