@@ -7,12 +7,12 @@
 ### Group Members:
 * Benjamin Lannis - bwl21@pitt.edu
 * Mason Hoydick - mth59@pitt.edu
-*
+* Dominic Galatis - dmg150@pitt.edu
 
 ### Datasets Used:
 * Ben's Dataset: Allegheny County Supermarkets & Convenience Stores (https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores)
 * Mason's Dataset: Grow Pittsburgh Food Gardens (https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens)
-*
+* Dom's Dataset: Restaurant/Food Facility Inspections and Locations (https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations)
 
 ## Overview:
 
