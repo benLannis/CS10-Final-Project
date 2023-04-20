@@ -16,4 +16,6 @@
 
 ## Overview:
 
-Welcome to our repository.
+![results](data/results.png)
+
+*higher numbers are better in this visualization*
