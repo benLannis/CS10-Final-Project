@@ -16,7 +16,7 @@
 
 ## Overview:
 
-Welcome to our repository! The Jupyter notebook files document our exploration into the question: "What is the best neighborhood in Pittsburgh" for the CMPINF 0010 Final Project at the University of Pittsburgh. In order to answer this question, we analyzed three separate datasets and compiled the results to determine which neighborhood has the best food (and consequently is the best neighborhood in the city).
+Welcome to our repository! The Jupyter notebook files document our exploration into the question: "What is the best neighborhood in Pittsburgh?" for the CMPINF 0010 Final Project at the University of Pittsburgh. In order to answer this question, we analyzed three separate datasets and compiled the results to determine which neighborhood has the best food (and consequently is the best neighborhood in the city).
 
 ![results](data/results.png)
 
